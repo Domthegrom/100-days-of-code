@@ -7,3 +7,11 @@
 **Thoughts:** I try to fix the apps on my own, not only copying what's in the videos.
 
 **Link to work:** https://javascript30.com/
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Did the day 3, 4 and 5 from the Javascript30 challenge.
+
+**Thoughts:** I learned about css variables and flexbox. I have to look more deeply into flexbox, it's not so easy at first.
+
+**Link to work:** https://javascript30.com/
