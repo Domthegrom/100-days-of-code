@@ -15,3 +15,11 @@
 **Thoughts:** I learned about css variables and flexbox. I have to look more deeply into flexbox, it's not so easy at first.
 
 **Link to work:** https://javascript30.com/
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Did the day 8, 9 and 10 from the Javascript30 challenge.
+
+**Thoughts:** I played around with the html canvas and did an exercise of checking checkboxes while holding shift.
+
+**Link to work:** https://javascript30.com/
