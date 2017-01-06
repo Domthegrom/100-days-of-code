@@ -23,3 +23,11 @@
 **Thoughts:** I played around with the html canvas and did an exercise of checking checkboxes while holding shift.
 
 **Link to work:** https://javascript30.com/
+
+### Day 4 January 6, 2017
+
+**Today's Progress**: Did the day 11, 12 and 13 from the Javascript30 challenge.
+
+**Thoughts:** I built a custom video player and I learned more about the <video> HTML5 tag, built a KONAMI key sequence and did some slide-in effect on images when scrolling.
+
+**Link to work:** https://javascript30.com/
