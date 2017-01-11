@@ -31,3 +31,42 @@
 **Thoughts:** I built a custom video player and I learned more about the <video> HTML5 tag, built a KONAMI key sequence and did some slide-in effect on images when scrolling.
 
 **Link to work:** https://javascript30.com/
+
+### Day 5 January 7, 2017
+
+**Today's Progress**: Javascript30 challenge continued.
+
+**Thoughts:** Todo app featuring localstorage and vanilia js
+
+**Link to work:** https://javascript30.com/
+
+### Day 6 January 8, 2017
+
+**Today's Progress**: Javascript30 challenge continued.
+
+**Thoughts:** reducers, css-shadows, array sorting and redux-thunk
+
+**Link to work:** https://javascript30.com/
+
+### Day 7 January 9, 2017
+
+**Today's Progress**: Javascript30 challenge continued.
+
+**Thoughts:** Flexbos was for today!
+**Link to work:** https://javascript30.com/
+
+### Day 8 January 10, 2017
+
+**Today's Progress**: Javascript30 challenge continued.
+
+**Thoughts:** Little sticky nav, ES-setup
+**Link to work:** https://javascript30.com/
+
+### Day 9 January 11, 2017
+
+**Today's Progress**: Javascript30 challenge continued, set up a basic project structure for my new app, did my homework for
+university in JS and almost finished the Udemy React course.
+
+**Thoughts:** I'm feeling to be afraid to start new things, even though I know what I want to build.
+I hope after the project structure is up and running I will get the momentum.
+**Link to work:** https://javascript30.com/
